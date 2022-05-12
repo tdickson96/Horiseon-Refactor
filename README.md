@@ -1,4 +1,7 @@
 # <Horiseon-Refactor>
+## Deployed Link
+
+This link will take you to the final deployed refactored project: https://tdickson96.github.io/Horiseon-Refactor/ 
 
 ## Description
 
