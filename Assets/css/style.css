@@ -20,7 +20,7 @@ p {
     font-size: 16px;
 }
 
-/* Consolidated .header class selectors and class selectors with elements */
+/* Consolidated .header class selectors and class selectors with repetitive elements */
 .header {
     padding: 20px;
     background-color: #2a607c;
