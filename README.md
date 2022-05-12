@@ -8,7 +8,7 @@ Horiseon Social Solutions came to our company Devel-Op Web Services to update, m
 
 Screenshot of Horiseon frontpage:
 
-![alt text](./assets/images/01-html-css-git-homework-demo.png)
+![Alt text](./assets/images/01-html-css-git-homework-demo.png)
 
 ## Credits
 
